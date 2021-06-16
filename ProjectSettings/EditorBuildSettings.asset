@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/LadderClimbingRun/Scenes/LevelLoader.unity
+    guid: f4612821d9632ba4a9293bcda4d923d6
+  - enabled: 1
+    path: Assets/LadderClimbingRun/Scenes/Level_1.unity
+    guid: 0c6ce43016b70b74db3da4dac01fac31
+  m_configObjects: {}
